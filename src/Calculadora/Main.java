@@ -5,12 +5,12 @@ public class Main {
         Scanner ler = new Scanner(System.in);
 
 
-        //instanciando as classes e metodos
+        //INSTANCIANDO METODOS E CLASSES.
         CalculadoraComum cal1 = new CalculadoraComum();
         CalculadoraCientifica cal2 = new CalculadoraCientifica();
 
 
-        //Inicio do programa
+        //INICIO DO PROGRAMA.
         System.out.println("***Bem vindo***");
         System.out.println("Escolha 1 para Comum\n" +
                 "Escolha 2 para cientifica");
@@ -19,7 +19,7 @@ public class Main {
 
 
 
-        //OPERAÇÕES BASICAS DA CALCULADORA COMUM;
+        //OPERAÇÕES BASICAS DA CALCULADORA COMUM.
         if (escolhaprincipal == 1){
             System.out.println("Bem vindo a calculadora basica");
             System.out.println("Digite 1 para soma\n" +
@@ -43,7 +43,7 @@ public class Main {
         }
 
 
-        //OPERAÇÕES DA CALCULADORA CIENTIFICA
+        //OPERAÇÕES DA CALCULADORA CIENTIFICA.
         if (escolhaprincipal == 2){
             System.out.println("Bem vindo a calculadora basica");
             System.out.println("Digite 1 para soma\n" +
