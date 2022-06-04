@@ -19,7 +19,7 @@ public class Main {
 
 
 
-        //OPERAÇÕES BASICAS DA CALCULADORA COMUM;
+        //OPERAÇÕES BASICAS DA CALCULADORA COMUM
         if (escolhaprincipal == 1){
             System.out.println("Bem vindo a calculadora basica");
             System.out.println("Digite 1 para soma\n" +
