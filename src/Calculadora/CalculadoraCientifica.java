@@ -63,6 +63,8 @@ public class CalculadoraCientifica  extends CalculadoraComum {
     }
 
     //Metodo de logaritmo
+
+    //Fiz os testes no cógido e até então funcionando corretamente. Francisco Siilva
     public double logaritmo() {
         int numero = 9;
         double result = Math.log(numero);
